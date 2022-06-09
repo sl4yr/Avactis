@@ -44,3 +44,4 @@ public class AvactisRegisterPage extends LoadableComponent<AvactisRegisterPage> 
 	}
 
 }
+//This because of git
